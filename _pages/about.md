@@ -17,22 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Hi, I am ***Zhipeng Xu***.
 
+I am currently a second-year master student in Computer Science at Northeastern University, where I focus on ***data science for LLMs***, with a particular emphasis on ***data curation and optimization strategies***. 
 
-I am a second-year MS student  in Computer Science at Northeastern University, advised by [Zhenghao Liu](https://edwardzh.github.io) and co-advised by [Chenyan Xiong](http://www.cs.cmu.edu/~cx/) from [CMU](https://www.cmu.edu/). Here, I work on ***data science for LLMs*** and ***retrieval-augmented LMs***. Special thanks to [THUNLP](https://nlp.csai.tsinghua.edu.cn) for supporting these projects, I learned a lot there.
-
-### 💡<u>I am looking for a PhD position in NLP for Fall 2026, please feel free to contact me if you are interested in my research.</u>
-
-
+I currently explore various aspects of ***data preprocessing, filtering, and augmentation***, aiming to create ***high-quality pretrain datasets*** that drive LLMs toward improved accuracy, efficiency, and generalization. This involves not only selecting data but also designing innovative methodologies to ***identify and mitigate biases, minimize noise, and balance linguistic diversity***.
 
 # 📝 Publications 
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">ACL 2024</span> <span style="color:red">(Oral)</span>  [Cleaner Pretraining Corpus Curation with Neural Web Scraping](https://arxiv.org/abs/2402.14652)  ![](https://img.shields.io/github/stars/OpenMatch/NeuScraper?style=social&label=Stars)  
   ***Zhipeng Xu**, Zhenghao Liu, Yukun Yan, Zhiyuan Liu, Ge Yu, Chenyan Xiong*
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">Preprint</span>  [Revealing the Treasures of Knowledge via Active Learning](https://arxiv.org/abs/2402.13547)  ![](https://img.shields.io/github/stars/OpenMatch/ActiveRAG?style=social&label=Stars)  
-  ***Zhipeng Xu**, Zhenghao Liu, Yibin Liu, Chenyan Xiong, Yukun Yan, Shuo Wang, Shi Yu, Zhiyuan Liu, Ge Yu*
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">CCIR 2024</span>  [Exploring the Potential of Dimension Reduction in Building Efficient Dense Retrieval Systems](https://www.cips-ir.org.cn/CCIR2024/) ![](https://img.shields.io/github/stars/NEUIR/ConAE?style=social&label=Stars)  
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">CCIR 2024</span>  [Exploring the Potential of Dimension Reduction in Dense Retrieval](https://www.cips-ir.org.cn/CCIR2024/) ![](https://img.shields.io/github/stars/NEUIR/ConAE?style=social&label=Stars)  
   ***Zhipeng Xu**, Zhenghao Liu, Yu Gu, Ge Yu*
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">Preprint</span>  [Activating Retrieval-Augmented Agents through Knowledge Assimilation and Accommodation](https://arxiv.org/abs/2402.13547)  ![](https://img.shields.io/github/stars/OpenMatch/ActiveRAG?style=social&label=Stars)  
+  ***Zhipeng Xu**, Zhenghao Liu, Yukun Yan, Shuo Wang, Shi Yu, Zhiyuan Liu, Ge Yu, Chenyan Xiong*
 
 # 🔬 Research Experience
 
