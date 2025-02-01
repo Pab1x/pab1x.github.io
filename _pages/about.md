@@ -23,7 +23,8 @@ I am currently a second-year master student in Computer Science at Northeastern 
 
 Feel free to reach out to me if you’re interested in my research. I’m looking for ***2025 summer internship*** opportunities.
 
-# 📝 Selected Publication
+### Representative Work
 
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">ACL 2024</span> <span style="color:red">(Oral)</span>  [Cleaner Pretraining Corpus Curation with Neural Web Scraping](https://arxiv.org/abs/2402.14652)  ![](https://img.shields.io/github/stars/OpenMatch/NeuScraper?style=social&label=Stars)  
-  ***Zhipeng Xu**, Zhenghao Liu, Yukun Yan, Zhiyuan Liu, Ge Yu, Chenyan Xiong*
+<span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">ACL 2024</span> <span style="color:red">(Oral)</span>  [Cleaner Pretraining Corpus Curation with Neural Web Scraping](https://arxiv.org/abs/2402.14652)  ![](https://img.shields.io/github/stars/OpenMatch/NeuScraper?style=social&label=Stars)  
+***Zhipeng Xu**, Zhenghao Liu, Yukun Yan, Zhiyuan Liu, Ge Yu, Chenyan Xiong*
+
