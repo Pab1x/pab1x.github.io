@@ -31,13 +31,3 @@ Feel free to reach out to me if you’re interested in my research. I’m lookin
   ***Zhipeng Xu**, Zhenghao Liu, Yu Gu, Ge Yu*
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">Preprint</span>  [Activating Retrieval-Augmented Agents through Knowledge Assimilation and Accommodation](https://arxiv.org/abs/2402.13547)  ![](https://img.shields.io/github/stars/OpenMatch/ActiveRAG?style=social&label=Stars)  
   ***Zhipeng Xu**, Zhenghao Liu, Yukun Yan, Zhiyuan Liu, Ge Yu, Chenyan Xiong*
-
-# 🔬 Research Experience
-
-> **IR Group, Northeastern University,** 09/2023–Present
->
-> Master student
-
-> **NLP Lab, Tsinghua University,** 6/2024–Present
->
-> Research internship
