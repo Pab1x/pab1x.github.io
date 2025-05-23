@@ -17,6 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am ***Zhipeng Xu***.
+Hi, I am **Zhipeng Xu**, a MS student in Computer Science at Northeastern University.
+I am currently a research intern at Alibaba Group.
 
-I am currently a second-year master student in Computer Science at Northeastern University.
