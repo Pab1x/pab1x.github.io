@@ -27,7 +27,7 @@ I am currently a research intern at Alibaba Group, and I will be on the job mark
 >
 > Research internship, advised by [Zulong Chen](https://scholar.google.com/citations?user=nUVmSqUAAAAJ&hl=zh-CN)
 
-> **Northeastern University,** 2023/09–Present
+> **IR Group, Northeastern University,** 2023/09–Present
 >
 > MS student, advised by [Zhenghao Liu](https://edwardzh.github.io/)
 
