@@ -47,7 +47,7 @@ I am currently a research intern at Alibaba Group, and I will be on the job mark
   ***Zhipeng Xu**, Zhenghao Liu, Yukun Yan, Zhiyuan Liu, Ge Yu, Chenyan Xiong*
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">Preprint</span> [Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning](https://arxiv.org/abs/2505.22095) ![](https://img.shields.io/github/stars/OpenBMB/R1-Router?style=social&label=Stars)   
   ***Zhipeng Xu\***, Chunyi Peng\*, Zhenghao Liu, Yishan Li, Yukun Yan, Shuo Wang, Zhiyuan Liu, Yu Gu, Minghe Yu, Ge Yu, Maosong Sun*
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">Preprint</span>  [Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search](https://arxiv.org/pdf/2502.12974) ![](https://img.shields.io/github/stars/OpenBMB/Debater?style=social&label=Stars)
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">Preprint</span>  [Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search](https://arxiv.org/pdf/2502.12974) ![](https://img.shields.io/github/stars/OpenBMB/Debater?style=social&label=Stars)   
   ***Zhipeng Xu\***, Yifan Ji\*, Zhenghao Liu, Yukun Yan, Shi Yu, Yishan Li, Zhiyuan Liu, Yu Gu, Ge Yu, Maosong Sun*
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">Preprint</span>  [Code-Vision: Evaluating Multimodal LLMs Logic Understanding and Code Generation Capabilities](https://arxiv.org/abs/2502.11829)  ![](https://img.shields.io/github/stars/wanghanbinpanda/CodeVision?style=social&label=Stars)    
