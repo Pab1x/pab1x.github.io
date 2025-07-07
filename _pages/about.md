@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## About Me
+# About Me
 
 Hi, I am **Zhipeng Xu**, a last-year MS student in Computer Science at Northeastern University, advised by [Zhenghao Liu](https://edwardzh.github.io/).
 
 I am currently a research intern at Alibaba Group, and I will be on the job market in 2026.
 
-## 🔬 Experience
+# 🔬 Experience
 
 > **Alibaba Group**, 2025/05–Present
 >
@@ -37,7 +37,7 @@ I am currently a research intern at Alibaba Group, and I will be on the job mark
 >
 > Research internship, advised by [Yukun Yan](https://scholar.google.com/citations?user=B88nSvIAAAAJ&hl=zh-CN)
 
-## 📝 Publications 
+# 📝 Publications 
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">ACL 2024</span> <span style="color:red">(Oral)</span>  [Cleaner Pretraining Corpus Curation with Neural Web Scraping](https://arxiv.org/abs/2402.14652)  ![](https://img.shields.io/github/stars/OpenMatch/NeuScraper?style=social&label=Stars)    
   ***Zhipeng Xu**, Zhenghao Liu, Yukun Yan, Zhiyuan Liu, Ge Yu, Chenyan Xiong*
