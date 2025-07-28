@@ -27,11 +27,11 @@ I am currently a research intern at Alibaba Group, and I will be on the job mark
 
 > **Alibaba Group**, 2025/05–Present
 >
-> Research internship, advised by [Zulong Chen](https://scholar.google.com/citations?user=nUVmSqUAAAAJ&hl=zh-CN)
+> Research internship
 
 > **NLP Lab, Tsinghua University,** 2023/12-2025/05
 >
-> Research internship, advised by [Yukun Yan](https://scholar.google.com/citations?user=B88nSvIAAAAJ&hl=zh-CN)
+> Research internship
 
 # 📝 Publications 
 
