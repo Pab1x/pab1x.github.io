@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhipeng Xu"
-description              : "NLPer"
+description              : 
 repository               : "pab1x.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=PGS_UbsAAAAJ"
   email            : "xuzhipeng@stumail.neu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Pab1x"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
