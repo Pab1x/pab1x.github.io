@@ -21,5 +21,5 @@ redirect_from:
 
 Hi, I am **Zhipeng Xu**, a last-year MS student in Computer Science at Northeastern University.
 
-I am currently a research intern at Alibaba Group and seeking for a PhD position.
+I am currently a research intern at Alibaba Group and seeking a PhD position.
 
