@@ -21,5 +21,5 @@ redirect_from:
 
 Hi, I am **Zhipeng Xu**, a last-year MS student in Computer Science at Northeastern University.
 
-I am currently a incoming Staff Researcher at Alibaba Group.
+I am currently an incoming Staff Researcher at Alibaba Group.
 
