@@ -1,0 +1,318 @@
+{
+  "checked_on": "2026-10-22",
+  "notation": {
+    "*": "Equal contribution / co-first author",
+    "†": "Project Leader"
+  },
+  "boundary": "Only explicit co-first/equal-contribution and project-leader roles are annotated. Corresponding-author symbols and affiliations are not converted into these roles. Knowledge Intensive Agents was checked against a coauthor page because publisher/SSRN full text was inaccessible.",
+  "records": [
+    {
+      "id": "xu2024enhancing",
+      "source": "https://aclanthology.org/2026.findings-eacl.12.pdf",
+      "method": "paper_pdf",
+      "cofirst": [],
+      "projectleader": [],
+      "note": "首页未标共同一作或 Project Leader；Zhenghao Liu 的星号为通讯作者。"
+    },
+    {
+      "id": "wang2025code",
+      "source": "https://arxiv.org/pdf/2502.11829",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Hanbin Wang",
+        "Xiaoxuan Zhou"
+      ],
+      "projectleader": [],
+      "note": "首页两位作者带星号，脚注说明 equal contribution；Zhipeng Xu 无此标记。"
+    },
+    {
+      "id": "peng2026mixture",
+      "source": "https://arxiv.org/pdf/2505.22095",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Chunyi Peng",
+        "Zhipeng Xu"
+      ],
+      "projectleader": [],
+      "note": "按 v2 首页共同一作脚注；作者名单按同版原文补正，未将通讯作者转为 Project Leader。",
+      "complete_authors": [
+        "Chunyi Peng",
+        "Zhipeng Xu",
+        "Zhenghao Liu",
+        "Yishan Li",
+        "Yukun Yan",
+        "Shuo Wang",
+        "Yu Gu",
+        "Minghe Yu",
+        "Ge Yu",
+        "Maosong Sun"
+      ]
+    },
+    {
+      "id": "xu2024cleaner",
+      "source": "https://aclanthology.org/2024.acl-short.72.pdf",
+      "method": "paper_pdf",
+      "cofirst": [],
+      "projectleader": [],
+      "note": "首页未标共同一作或 Project Leader；Zhenghao Liu 的星号为通讯作者。"
+    },
+    {
+      "id": "ji2025learning",
+      "source": "https://arxiv.org/pdf/2502.12974",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Yifan Ji",
+        "Zhipeng Xu"
+      ],
+      "projectleader": [],
+      "note": "首页两位作者带 equal contribution 标记。"
+    },
+    {
+      "id": "ji2026unikie",
+      "source": "https://aclanthology.org/2026.acl-long.287.pdf",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Yifan Ji",
+        "Zhipeng Xu"
+      ],
+      "projectleader": [],
+      "note": "正式 ACL 版首页两位作者共同一作。",
+      "paper_url": "https://aclanthology.org/2026.acl-long.287/"
+    },
+    {
+      "id": "xiong2025enhancing",
+      "source": "https://arxiv.org/pdf/2504.14845",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Qiushi Xiong",
+        "Zhipeng Xu"
+      ],
+      "projectleader": [],
+      "note": "首页两位作者带 equal contribution 标记。"
+    },
+    {
+      "id": "liu2026knowledge",
+      "source": "https://xinhaidong.top/#publications",
+      "method": "coauthor_page_only",
+      "cofirst": [],
+      "projectleader": [],
+      "note": "期刊原文和 SSRN PDF 访问受限；已核对共同作者 Haidong Xin 的主页完整作者名单，其中未标共同一作或 Project Leader。本文保持无标记，不据此断言原文不存在其他贡献说明。",
+      "complete_authors": [
+        "Zhenghao Liu",
+        "Pengcheng Huang",
+        "Zhipeng Xu",
+        "Xinze Li",
+        "Shuliang Liu",
+        "Chunyi Peng",
+        "Haidong Xin",
+        "Yukun Yan",
+        "Shuo Wang",
+        "Xu Han",
+        "Zhiyuan Liu",
+        "Maosong Sun",
+        "Yu Gu",
+        "Ge Yu"
+      ],
+      "paper_url": "https://doi.org/10.1016/j.aiopen.2026.02.002"
+    },
+    {
+      "id": "xiong2026lang2act",
+      "source": "https://arxiv.org/pdf/2602.13235",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Yuqi Xiong",
+        "Chunyi Peng"
+      ],
+      "projectleader": [],
+      "note": "首页 Yuqi Xiong、Chunyi Peng 共同一作，Zhipeng Xu 无此标记。",
+      "paper_url": "https://arxiv.org/abs/2602.13235"
+    },
+    {
+      "id": "zhang2026latent",
+      "source": "https://arxiv.org/pdf/2607.02607",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Yongheng Zhang",
+        "Zhipeng Xu",
+        "Hao Wu"
+      ],
+      "projectleader": [],
+      "note": "首页前三位作者带 Equal Contribution 标记。"
+    },
+    {
+      "id": "peng2026cc",
+      "source": "https://arxiv.org/html/2605.03903v2",
+      "method": "paper_html",
+      "cofirst": [],
+      "projectleader": [
+        "Zhipeng Xu"
+      ],
+      "note": "v2 原文作者注明确说明 Zhipeng Xu 为 project leader；通讯作者为 Zhenghao Liu。",
+      "complete_authors": [
+        "Chunyi Peng",
+        "Zhipeng Xu",
+        "Yuqi Xiong",
+        "Zulong Chen",
+        "Junhao Ji",
+        "Qing Liu",
+        "Zhenghao Liu",
+        "Zubao Qin",
+        "Bing Zhao",
+        "Jianqiang Wan",
+        "Jun Tang",
+        "Zhibo Yang",
+        "Shuai Bai",
+        "Dayiheng Liu",
+        "Maosong Sun"
+      ]
+    },
+    {
+      "id": "yang2026realign",
+      "source": "https://arxiv.org/pdf/2604.07419",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Hao Yang",
+        "Yifan Ji",
+        "Zhipeng Xu"
+      ],
+      "projectleader": [],
+      "note": "首页前三位作者带 equal contribution 标记。",
+      "paper_url": "https://arxiv.org/abs/2604.07419"
+    },
+    {
+      "id": "xu2026enhancing",
+      "source": "https://arxiv.org/pdf/2607.04636",
+      "method": "paper_pdf",
+      "cofirst": [],
+      "projectleader": [],
+      "note": "首页花色符号表示单位；未标共同一作或 Project Leader。"
+    },
+    {
+      "id": "peng2026conceptformer",
+      "source": "https://arxiv.org/pdf/2608.15698",
+      "method": "paper_pdf",
+      "cofirst": [],
+      "projectleader": [],
+      "note": "首页 Yukun Yan、Zhenghao Liu 的星号表示通讯作者；未标共同一作或 Project Leader。",
+      "complete_authors": [
+        "Chunyi Peng",
+        "Zhipeng Xu",
+        "Yukun Yan",
+        "Zhenghao Liu",
+        "Shi Yu",
+        "Sen Mei",
+        "Yubo Sun",
+        "Yongheng Zhang",
+        "Jie Zhou",
+        "Yu Gu",
+        "Ge Yu",
+        "Maosong Sun"
+      ]
+    },
+    {
+      "id": "liu2026mitigating",
+      "source": "https://aclanthology.org/2026.findings-acl.71.pdf",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Shuliang Liu",
+        "Zhipeng Xu"
+      ],
+      "projectleader": [],
+      "note": "正式 Findings of ACL 版首页两位作者共同一作。",
+      "paper_url": "https://aclanthology.org/2026.findings-acl.71/"
+    },
+    {
+      "id": "xiong2026skill",
+      "source": "https://arxiv.org/pdf/2610.22217",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Yuqi Xiong",
+        "Chunyi Peng"
+      ],
+      "projectleader": [],
+      "note": "首页前两位作者 Equal contribution；Zhipeng Xu 无此标记。"
+    },
+    {
+      "id": "yang2026ehr",
+      "source": "https://arxiv.org/pdf/2610.16689",
+      "method": "paper_pdf",
+      "cofirst": [],
+      "projectleader": [],
+      "note": "首页 Ying Zhou、Zeyi Wen 的星号表示通讯作者；未标共同一作或 Project Leader。"
+    },
+    {
+      "id": "sun2026chaos",
+      "source": "https://arxiv.org/pdf/2610.11816",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Yubo Sun",
+        "Chunyi Peng"
+      ],
+      "projectleader": [],
+      "note": "已下载 PDF 并读取首页，前两位作者 Equal contribution；Zhipeng Xu 无此标记。"
+    },
+    {
+      "id": "wu2026recursive",
+      "source": "https://www.preprints.org/manuscript/202609.2680",
+      "method": "paper_html",
+      "cofirst": [],
+      "projectleader": [
+        "Kun Wang"
+      ],
+      "note": "原文作者栏 Kun Wang 带十字符号，脚注明确为 Project Leader；补全原 Scholar 被 others 省略的作者以显示该标注。Zhipeng Xu 无此标记。",
+      "complete_authors": [
+        "Hao Wu",
+        "Fan Xu",
+        "Fan Zhang",
+        "Zhipeng Xu",
+        "Yongheng Zhang",
+        "Yinghui Li",
+        "Yizhou Zhao",
+        "Penghao Zhao",
+        "Weiran Yao",
+        "Zengxiang Li",
+        "Yuan Gao",
+        "Zhangyang Gao",
+        "Hanbin Wang",
+        "Ruihan Tao",
+        "Wenjie Wang",
+        "Qi Li",
+        "Junfeng Fang",
+        "Xingjun Ma",
+        "Qiankun Li",
+        "Xiao Luo",
+        "Yefeng Zheng",
+        "Zhiwei Liu",
+        "Stephen Wang",
+        "Kun Wang",
+        "Yang Liu",
+        "Yugang Jiang",
+        "Liang Wang",
+        "Nan Liu",
+        "Philip S. Yu",
+        "Caiming Xiong",
+        "Qiang Yang",
+        "Qingsong Wen"
+      ]
+    },
+    {
+      "id": "deng2026auv",
+      "source": "https://arxiv.org/pdf/2609.34854",
+      "method": "paper_pdf",
+      "cofirst": [
+        "Zhijie Deng",
+        "Ling Li"
+      ],
+      "projectleader": [],
+      "note": "首页前两位作者 Equal contribution；Zulong Chen、Jiaheng Wei 为通讯作者，不标作 Project Leader。"
+    },
+    {
+      "id": "xiang2026docclaw",
+      "source": "https://arxiv.org/pdf/2608.18685",
+      "method": "paper_pdf",
+      "cofirst": [],
+      "projectleader": [],
+      "note": "首页 Shijian Lu 的星号表示通讯作者；未标共同一作或 Project Leader。"
+    }
+  ]
+}

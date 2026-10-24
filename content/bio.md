@@ -1,0 +1,3 @@
+Hi! I'm **Zhipeng Xu**, a Senior Researcher at Alibaba Group, where I build foundational platforms for large language models and work toward advancing agents in complex real-world production environments, bridging scientific innovation with practical impact.
+
+My research focuses on **Long-Horizon Agents** and **Recursive Self-Improvement (RSI) systems**. I study how agents can make sustained progress on open-ended tasks, learn from experience, and improve their own learning and problem-solving processes. My goal is to build reliable, adaptable agents that can tackle complex real-world problems and accelerate scientific discovery.

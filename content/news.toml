@@ -1,0 +1,23 @@
+[[news]]
+date = "2026-10"
+content = "Two new preprints are out: [SCOPED](https://arxiv.org/abs/2610.22217) on skill-decoupled expert distillation, and [Chaos in the Text](https://arxiv.org/abs/2610.11816) on modality preference in mixed-modality retrieval."
+
+[[news]]
+date = "2026-09"
+content = "Our survey, [Recursive Self-Improvement in AI: A Survey](https://www.preprints.org/manuscript/202609.2680), is now available!"
+
+[[news]]
+date = "2026-08"
+content = "Our [ConceptFormer](https://arxiv.org/abs/2608.15698) preprint is now available, introducing a latent-concept approach to visual document retrieval."
+
+[[news]]
+date = "2026-05"
+content = "We released [CC-OCR V2](https://arxiv.org/abs/2605.03903), a benchmark for fine-grained failure attribution in real-world visual document understanding."
+
+[[news]]
+date = "2026-04"
+content = "Three papers accepted to **ACL 2026**: [UNIKIE-BENCH](https://aclanthology.org/2026.acl-long.287/) in the main conference; [Lang2Act](https://aclanthology.org/2026.findings-acl.409/) and [Genii](https://aclanthology.org/2026.findings-acl.71/) in Findings."
+
+[[news]]
+date = "2026-04"
+content = "Two papers, [MoRE](https://github.com/OpenBMB/MoRE) and [ReAlign](https://github.com/NEUIR/ReAlign), accepted to **SIGIR 2026**!"

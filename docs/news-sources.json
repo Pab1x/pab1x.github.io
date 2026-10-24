@@ -1,0 +1,62 @@
+{
+  "checked_on": "2026-10-24",
+  "scope": "Selected 2026 announcements for the existing 21-paper Scholar-derived bibliography. Conference counts refer to papers in this bibliography, not all people named Zhipeng Xu.",
+  "entries": [
+    {
+      "date": "2026-10",
+      "event": "Two October preprint releases: SCOPED and Chaos in the Text",
+      "paper_ids": ["xiong2026skill", "sun2026chaos"],
+      "sources": [
+        "https://arxiv.org/abs/2610.22217",
+        "https://arxiv.org/abs/2610.11816"
+      ],
+      "date_basis": "arXiv v1 submission dates: SCOPED 15 October and Chaos in the Text 8 October 2026. SCOPED is the method name given in the paper abstract. These are preprint announcements."
+    },
+    {
+      "date": "2026-09",
+      "event": "RSI survey release",
+      "paper_ids": ["wu2026recursive"],
+      "sources": ["https://www.preprints.org/manuscript/202609.2680"],
+      "date_basis": "Preprints.org lists Posted: 30 September 2026. This is a preprint release, not peer-reviewed acceptance."
+    },
+    {
+      "date": "2026-08",
+      "event": "ConceptFormer preprint release",
+      "paper_ids": ["peng2026conceptformer"],
+      "sources": [
+        "https://arxiv.org/abs/2608.15698"
+      ],
+      "date_basis": "arXiv v1 submitted 16 August 2026. The 21 August revision is not counted as another paper release."
+    },
+    {
+      "date": "2026-05",
+      "event": "CC-OCR V2 preprint release",
+      "paper_ids": ["peng2026cc"],
+      "sources": ["https://arxiv.org/abs/2605.03903"],
+      "date_basis": "arXiv v1 submitted 5 May 2026; v2 revised 10 August 2026."
+    },
+    {
+      "date": "2026-04",
+      "event": "Three ACL 2026 acceptances: one main conference, two Findings",
+      "paper_ids": ["ji2026unikie", "xiong2026lang2act", "liu2026mitigating"],
+      "sources": [
+        "https://aclanthology.org/2026.acl-long.287/",
+        "https://aclanthology.org/2026.findings-acl.409/",
+        "https://aclanthology.org/2026.findings-acl.71/",
+        "https://2026.aclweb.org/"
+      ],
+      "date_basis": "Month of the official acceptance notification schedule (4 April 2026), rather than the July proceedings publication month. No individual acceptance-email date is claimed."
+    },
+    {
+      "date": "2026-04",
+      "event": "Two SIGIR 2026 acceptances",
+      "paper_ids": ["peng2026mixture", "yang2026realign"],
+      "sources": [
+        "https://github.com/OpenBMB/MoRE",
+        "https://github.com/NEUIR/ReAlign",
+        "https://arxiv.org/abs/2604.07419"
+      ],
+      "date_basis": "Monthly announcement grouping. MoRE's author repository announces acceptance on 3 April 2026. ReAlign's author repository confirms SIGIR acceptance but does not date it; its preprint was submitted on 8 April 2026. This grouping does not establish an exact ReAlign acceptance date."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+type = "publication"
+title = "Publications"
+description = "Conference papers, journal articles, and preprints."
+source = "publications.bib"
+source_url = "https://scholar.google.com/citations?user=PGS_UbsAAAAJ&hl=en"

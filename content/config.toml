@@ -1,0 +1,42 @@
+[site]
+title = "Zhipeng Xu"
+description = "Zhipeng Xu at Alibaba Group."
+favicon = "/favicon.svg"
+last_updated = "October 24, 2026"
+
+[author]
+name = "Zhipeng Xu"
+title = ""
+institution = "Alibaba Group"
+avatar = "/avatar.png"
+
+[social]
+github = "https://github.com/Pab1x"
+wechat = "pab1x24"
+email = "xuzp23@foxmail.com"
+google_scholar = "https://scholar.google.com/citations?user=PGS_UbsAAAAJ&hl=en"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = false
+switcher = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
