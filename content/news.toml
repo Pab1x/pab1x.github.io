@@ -1,6 +1,10 @@
 [[news]]
 date = "2026-10"
-content = "Three new preprints are out: [SCOPED](https://arxiv.org/abs/2610.22217) on skill-decoupled expert distillation, [Chaos in the Text](https://arxiv.org/abs/2610.11816) on modality preference in mixed-modality retrieval, and [Procedural Exposure Bias](https://arxiv.org/abs/2610.26062) on how skill representations shape agent decisions."
+content = "Two new preprints on skills are out: [SCOPED](https://arxiv.org/abs/2610.22217) and [Procedural Exposure Bias](https://arxiv.org/abs/2610.26062)."
+
+[[news]]
+date = "2026-10"
+content = "Our preprint [Chaos in the Text](https://arxiv.org/abs/2610.11816) on modality preference in mixed-modality retrieval is now available."
 
 [[news]]
 date = "2026-09"
