@@ -1,16 +1,27 @@
 {
   "checked_on": "2026-10-24",
-  "scope": "Selected 2026 announcements for the existing 21-paper Scholar-derived bibliography. Conference counts refer to papers in this bibliography, not all people named Zhipeng Xu.",
+  "updated_on": "2026-10-26",
+  "scope": "Selected 2026 homepage announcements. Conference counts refer to papers in the curated Scholar-derived bibliography, not all people named Zhipeng Xu. News may also announce newer preprints not yet in that bibliography.",
   "entries": [
     {
       "date": "2026-10",
-      "event": "Two October preprint releases: SCOPED and Chaos in the Text",
+      "event": "Three October preprint releases: SCOPED, Chaos in the Text, and Procedural Exposure Bias",
+      "checked_on": "2026-10-26",
       "paper_ids": ["xiong2026skill", "sun2026chaos"],
+      "additional_papers": [
+        {
+          "title": "Procedural Exposure Bias in Skill-Augmented Language Model Agents",
+          "url": "https://arxiv.org/abs/2610.26062",
+          "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=PGS_UbsAAAAJ&sortby=pubdate&citation_for_view=PGS_UbsAAAAJ:eflP2zaiRacC",
+          "in_local_bibliography": false
+        }
+      ],
       "sources": [
         "https://arxiv.org/abs/2610.22217",
-        "https://arxiv.org/abs/2610.11816"
+        "https://arxiv.org/abs/2610.11816",
+        "https://arxiv.org/abs/2610.26062"
       ],
-      "date_basis": "arXiv v1 submission dates: SCOPED 15 October and Chaos in the Text 8 October 2026. SCOPED is the method name given in the paper abstract. These are preprint announcements."
+      "date_basis": "arXiv v1 submission dates: SCOPED 15 October, Chaos in the Text 8 October, and Procedural Exposure Bias 19 October 2026. SCOPED is the method name given in the paper abstract. The new paper's link, date, and short description were checked against its arXiv abstract on 26 October. These are preprint announcements."
     },
     {
       "date": "2026-09",
