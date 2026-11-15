@@ -1,37 +1,8 @@
 {
-  "checked_on": "2026-10-24",
-  "updated_on": "2026-10-26",
-  "scope": "Selected 2026 homepage announcements. Conference counts refer to papers in the curated Scholar-derived bibliography, not all people named Zhipeng Xu. News may also announce newer preprints not yet in that bibliography.",
+  "checked_on": "2026-11-15",
+  "updated_on": "2026-11-15",
+  "scope": "Selected 2026 homepage announcements. News includes accepted papers and the RSI survey exception. Conference counts refer to papers in the curated Scholar-derived bibliography, not all people named Zhipeng Xu.",
   "entries": [
-    {
-      "date": "2026-10",
-      "event": "Two October preprints on skills: SCOPED and Procedural Exposure Bias",
-      "checked_on": "2026-10-26",
-      "paper_ids": ["xiong2026skill"],
-      "additional_papers": [
-        {
-          "title": "Procedural Exposure Bias in Skill-Augmented Language Model Agents",
-          "url": "https://arxiv.org/abs/2610.26062",
-          "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=PGS_UbsAAAAJ&sortby=pubdate&citation_for_view=PGS_UbsAAAAJ:eflP2zaiRacC",
-          "in_local_bibliography": false
-        }
-      ],
-      "sources": [
-        "https://arxiv.org/abs/2610.22217",
-        "https://arxiv.org/abs/2610.26062"
-      ],
-      "date_basis": "arXiv v1 submission dates: SCOPED 15 October and Procedural Exposure Bias 19 October 2026. SCOPED is the method name given in the paper abstract. These are preprint announcements about skills.",
-      "description_basis": "The arXiv abstracts describe SCOPED as skill-decoupled on-policy expert distillation and Procedural Exposure Bias as an analysis of how procedural skill representations influence action preferences."
-    },
-    {
-      "date": "2026-10",
-      "event": "Chaos in the Text preprint release",
-      "checked_on": "2026-10-26",
-      "paper_ids": ["sun2026chaos"],
-      "sources": ["https://arxiv.org/abs/2610.11816"],
-      "date_basis": "arXiv v1 submitted 8 October 2026. This announcement concerns modality preference in mixed-modality retrieval.",
-      "description_basis": "The arXiv title and abstract identify modality preference in mixed-modality retrieval as the paper's central research topic."
-    },
     {
       "date": "2026-09",
       "event": "RSI survey release",
@@ -40,20 +11,11 @@
       "date_basis": "Preprints.org lists Posted: 30 September 2026. This is a preprint release, not peer-reviewed acceptance."
     },
     {
-      "date": "2026-08",
-      "event": "ConceptFormer preprint release",
-      "paper_ids": ["peng2026conceptformer"],
-      "sources": [
-        "https://arxiv.org/abs/2608.15698"
-      ],
-      "date_basis": "arXiv v1 submitted 16 August 2026. The 21 August revision is not counted as another paper release."
-    },
-    {
       "date": "2026-05",
-      "event": "CC-OCR V2 preprint release",
+      "event": "CC-OCR V2 accepted to KDD",
       "paper_ids": ["peng2026cc"],
       "sources": ["https://arxiv.org/abs/2605.03903"],
-      "date_basis": "arXiv v1 submitted 5 May 2026; v2 revised 10 August 2026."
+      "date_basis": "Acceptance update supplied by the author; the conference edition/year is intentionally omitted."
     },
     {
       "date": "2026-04",
