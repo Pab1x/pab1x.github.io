@@ -14,9 +14,10 @@ content = "Our survey, [Recursive Self-Improvement in AI: A Survey](https://www.
 date = "2026-08"
 content = "Our [ConceptFormer](https://arxiv.org/abs/2608.15698) preprint is now available, introducing a latent-concept approach to visual document retrieval."
 
+
 [[news]]
 date = "2026-05"
-content = "We released [CC-OCR V2](https://arxiv.org/abs/2605.03903), a benchmark for fine-grained failure attribution in real-world visual document understanding."
+content = "We released [**CC-OCR V2**](https://arxiv.org/abs/2605.03903), a benchmark for fine-grained failure attribution in real-world visual document understanding. It was designed to evaluate the OCR capabilities of [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8)."
 
 [[news]]
 date = "2026-04"
