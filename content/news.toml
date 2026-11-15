@@ -4,11 +4,11 @@ content = "Our survey, [Recursive Self-Improvement in AI: A Survey](https://www.
 
 [[news]]
 date = "2026-05"
-content = "[**CC-OCR V2**](https://arxiv.org/abs/2605.03903), a benchmark for fine-grained failure attribution in real-world visual document understanding, has been accepted to **KDD**."
+content = "[**CC-OCR V2**](https://arxiv.org/abs/2605.03903), a benchmark developed to evaluate the OCR capabilities of [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8), has been accepted to **KDD**."
 
 [[news]]
 date = "2026-04"
-content = "Three papers accepted to **ACL 2026**: [UNIKIE-BENCH](https://aclanthology.org/2026.acl-long.287/) in the main conference; [Lang2Act](https://aclanthology.org/2026.findings-acl.409/) and [Genii](https://aclanthology.org/2026.findings-acl.71/) in Findings."
+content = "Three papers accepted to **ACL 2026**: [**UNIKIE-BENCH**](https://aclanthology.org/2026.acl-long.287/), a benchmark for evaluating Qwen3.7-Plus's visual document information extraction capabilities, in the main conference; [Lang2Act](https://aclanthology.org/2026.findings-acl.409/) and [Genii](https://aclanthology.org/2026.findings-acl.71/) in Findings."
 
 [[news]]
 date = "2026-04"
