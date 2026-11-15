@@ -33,7 +33,7 @@ export default function News({ items, title }: NewsProps) {
                             <ReactMarkdown
                                 components={{
                                     p: ({ children }) => <p>{children}</p>,
-                                    strong: ({ children }) => <strong className="font-semibold text-primary">{children}</strong>,
+                                    strong: ({ children }) => <strong className="font-semibold">{children}</strong>,
                                     a: ({ ...props }) => (
                                         <a
                                             {...props}
