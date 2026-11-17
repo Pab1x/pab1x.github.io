@@ -4,7 +4,7 @@ content = "Our survey, [Recursive Self-Improvement in AI: A Survey](https://www.
 
 [[news]]
 date = "2026-05"
-content = "We are pleased to announce that [**CC-OCR V2**](https://arxiv.org/abs/2605.03903) has been accepted to **KDD 2027**. It is a frontier OCR benchmark that we designed to establish the evaluation framework for [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8)."
+content = "We are pleased to announce that [**CC-OCR V2**](https://arxiv.org/abs/2605.03903) has been accepted to **KDD 2027**. It is a frontier OCR benchmark that we designed to establish the evaluation for [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8)."
 
 [[news]]
 date = "2026-04"
